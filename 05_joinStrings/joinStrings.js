@@ -9,8 +9,14 @@
 
 // Add your code right below, good luck!
 
+firstName = 'Carlos';
+lastName = 'Stevenson';
+thisYear = 1965;
+birthYear = 1947;
+age = thisYear - birthYear;
+fullName = firstName + ' ' + lastName;
 
-
+greeting = `Hello! My name is ${firstName} ${lastName} and I am ${age} years old.`
 
 
 // Do not change this
